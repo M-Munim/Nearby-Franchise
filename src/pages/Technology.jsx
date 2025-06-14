@@ -5,7 +5,7 @@ const Technology = () => {
         {
             title: "Driver & Passenger Apps",
             description: "Our apps are available for Android and iOS, customized to your brand with built-in GPS, ratings, payments, and notifications.",
-            icon: "https://cdn-icons-png.flaticon.com/512/2965/2965567.png",
+            icon: "https://cdn-icons-png.flaticon.com/512/2983/2983780.png",
         },
         {
             title: "White-Labeled Booking Portal",
@@ -30,7 +30,7 @@ const Technology = () => {
         {
             title: "Hardware Integrations",
             description: "Includes support for SIP phones, POS terminals, printers, and tablets that are plug-and-play ready.",
-            icon: "https://cdn-icons-png.flaticon.com/512/2331/2331970.png",
+            icon: "https://cdn-icons-png.flaticon.com/512/2721/2721721.png",
         },
     ];
 

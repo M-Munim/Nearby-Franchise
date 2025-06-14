@@ -178,21 +178,25 @@ const Home = () => {
             name: "Ali Mahmood",
             location: "Wakefield",
             quote: "Nearby helped me go from idea to operation in under 30 days. The tech, support, and branding are miles ahead.",
+            image: "/testi2.jpg",
         },
         {
             name: "Sarah Hussain",
             location: "Halifax",
             quote: "I finally have a business that runs with structure and support. The call centre handles bookings, and I focus on growth.",
+            image: "/testi1.jpg",
         },
         {
             name: "James Patel",
             location: "Bradford",
             quote: "The onboarding process was smooth, and the tools saved me thousands in setup costs.",
+            image: "/testi4.jpg",
         },
         {
             name: "Mariam Khan",
             location: "Leicester",
             quote: "Being part of the Nearby network gave me instant credibility and bookings on day one.",
+            image: "/testi3.jpg",
         },
     ];
 
@@ -211,7 +215,7 @@ const Home = () => {
                         </Link>
                     </div>
                     <div className="md:w-1/2">
-                        <img src="hero.png" alt="Franchise Owner" className="rounded-xl shadow-xl" />
+                        <img src="hero.jpg" alt="Franchise Owner" className="rounded-xl shadow-xl" />
                     </div>
                 </div>
             </section>
@@ -251,19 +255,25 @@ const Home = () => {
 
             {/* Testimonials */}
             <section className="bg-gray-100 py-20 px-6">
-                <div className="max-w-6xl mx-auto text-center">
-                    <h2 className="text-3xl font-bold text-[#94C120] mb-12">Franchisee Success Stories</h2>
-                    <div className="grid md:grid-cols-2 gap-10 text-left">
-                        {testimonials.map((t, i) => (
-                            <div key={i} className="bg-white p-6 rounded-lg shadow-md border-l-4 border-[#94C120]">
-                                <p className="italic text-gray-700 mb-4">“{t.quote}”</p>
-                                <p className="font-semibold">{t.name}</p>
-                                <p className="text-sm text-gray-500">{t.location}</p>
-                            </div>
-                        ))}
-                    </div>
+    <div className="max-w-6xl mx-auto text-center">
+        <h2 className="text-3xl font-bold text-[#94C120] mb-12">Franchisee Success Stories</h2>
+        <div className="grid md:grid-cols-2 gap-10 text-left">
+            {testimonials.map((t, i) => (
+                <div key={i} className="bg-white p-6 rounded-lg shadow-md border-l-4 border-[#94C120] flex flex-col items-start">
+                    <img
+                        src={t.image}
+                        alt={t.name}
+                        className="w-20 h-20 rounded-full mb-4 object-cover border border-gray-300 "
+                    />
+                    <p className="italic text-gray-700 mb-4">“{t.quote}”</p>
+                    <p className="font-semibold">{t.name}</p>
+                    <p className="text-sm text-gray-500">{t.location}</p>
                 </div>
-            </section>
+            ))}
+        </div>
+    </div>
+</section>
+
 
             {/* Final CTA */}
             <section className="bg-[#94C120] text-white py-20 text-center px-4">

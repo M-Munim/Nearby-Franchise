@@ -31,7 +31,7 @@ const Franchise = () => {
             title: "Dispatch Software & Taxi Butler Access",
             description:
                 "Plug-and-play tools to track jobs, manage fleets, and print bookings from hotels, clubs, or offices.",
-            icon: "https://cdn-icons-png.flaticon.com/512/3003/3003984.png",
+            icon: "https://cdn-icons-png.flaticon.com/512/7473/7473497.png",
         },
         {
             title: "POS Machines, SIP Phones, and Broadband",

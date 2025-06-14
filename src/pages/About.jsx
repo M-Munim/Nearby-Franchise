@@ -16,7 +16,7 @@ const About = () => {
                         </p>
                     </div>
                     <div className="md:w-1/2">
-                        <img src="hero.png" alt="Franchise Owner" className="rounded-xl shadow-xl" />
+                        <img src="/about.jpg" alt="Franchise Owner" className="rounded-xl shadow-xl" />
                     </div>
                 </div>
             </section>
@@ -31,7 +31,7 @@ const About = () => {
                         </p>
                     </div>
                     <img
-                        src="https://cdn-icons-png.flaticon.com/512/3602/3602123.png"
+                        src="/mission.jpg"
                         alt="Mission"
                         className="w-full max-w-md mx-auto"
                     />
@@ -42,7 +42,7 @@ const About = () => {
             <section className="bg-gray-50 py-20 px-6">
                 <div className="max-w-6xl mx-auto grid md:grid-cols-2 gap-12 items-center">
                     <img
-                        src="https://cdn-icons-png.flaticon.com/512/4322/4322991.png"
+                        src="/vision.jpg"
                         alt="Vision"
                         className="w-full max-w-md mx-auto"
                     />
