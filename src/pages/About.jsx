@@ -16,7 +16,7 @@ const About = () => {
                         </p>
                     </div>
                     <div className="md:w-1/2">
-                        <img src="/about.jpg" alt="Franchise Owner" className="rounded-xl shadow-xl" />
+                        <img src="/about.jpg" alt="Franchise Owner" className="rounded-xl shadow-xl w-1/2" />
                     </div>
                 </div>
             </section>
@@ -62,23 +62,23 @@ const About = () => {
                     <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-10">
                         {[
                             {
-                                name: "Adeel Rehman",
-                                role: "Founder & CEO",
-                                image: "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+                                name: "Punjy Malik",
+                                role: "CEO",
+                                image: "/CEO.jpg",
                             },
                             {
-                                name: "Fariha Malik",
+                                name: "Faisal Pervez",
                                 role: "COO",
-                                image: "https://cdn-icons-png.flaticon.com/512/4140/4140048.png",
+                                image: "COO.jpg",
                             },
                             {
-                                name: "Zain Abbas",
-                                role: "Head of Franchise Success",
-                                image: "https://cdn-icons-png.flaticon.com/512/4140/4140051.png",
+                                name: "Mohammed Imran",
+                                role: "Head of Business Efficiency",
+                                image: "HOB.jpg",
                             },
                         ].map((member, idx) => (
                             <div key={idx} className="bg-gray-50 p-6 rounded-xl shadow hover:shadow-md transition">
-                                <img src={member.image} alt={member.name} className="w-24 h-24 mx-auto mb-4 rounded-full" />
+                                <img src={member.image} alt={member.name} className="w-48 h-48 mx-auto mb-4 rounded-full" />
                                 <h3 className="text-lg font-semibold text-[#94C120]">{member.name}</h3>
                                 <p className="text-sm text-gray-600">{member.role}</p>
                             </div>
