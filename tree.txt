@@ -1,0 +1,69 @@
+nearby-franchise/
+├─ public/
+│  ├─ about.jpg
+│  ├─ accounting.png
+│  ├─ booking.png
+│  ├─ CEO.jpg
+│  ├─ coding.png
+│  ├─ contact.png
+│  ├─ COO.jpeg
+│  ├─ credit-card.png
+│  ├─ hero.jpg
+│  ├─ HOB.jpg
+│  ├─ Logo.png
+│  ├─ main.jpg
+│  ├─ mission.jpg
+│  ├─ payment.png
+│  ├─ phone.png
+│  ├─ pos-terminal.png
+│  ├─ seller.png
+│  ├─ testi1.jpg
+│  ├─ testi2.jpg
+│  ├─ testi3.jpg
+│  ├─ testi4.jpg
+│  ├─ virtual-assistants.png
+│  ├─ vision.jpg
+│  ├─ vite.svg
+│  └─ withdraw.png
+├─ src/
+│  ├─ assets/
+│  │  └─ react.svg
+│  ├─ Components/
+│  │  ├─ Footer.jsx
+│  │  └─ Navbar.jsx
+│  ├─ pages/
+│  │  ├─ Blogs/
+│  │  │  ├─ BlogCashlessPayments.jsx
+│  │  │  ├─ BlogPostBrandingPower.jsx
+│  │  │  ├─ BlogPostCallCentre.jsx
+│  │  │  ├─ BlogPostDispatchSoftware.jsx
+│  │  │  ├─ BlogPostDriverApp.jsx
+│  │  │  ├─ BlogPostFranchise.jsx
+│  │  │  ├─ BlogPostFranchiseVsSolo.jsx
+│  │  │  ├─ BlogPostLocalMarketing.jsx
+│  │  │  ├─ BlogPostMerchantRates.jsx
+│  │  │  ├─ BlogPostPOSMachine.jsx
+│  │  │  ├─ BlogPostReviews.jsx
+│  │  │  ├─ BlogPostSocialMedia.jsx
+│  │  │  ├─ BlogPostTaxiMistakes.jsx
+│  │  │  └─ BlogPostUKTaxi.jsx
+│  │  ├─ About.jsx
+│  │  ├─ Blog.jsx
+│  │  ├─ Contact.jsx
+│  │  ├─ Faq.jsx
+│  │  ├─ Franchise.jsx
+│  │  ├─ Home.jsx
+│  │  ├─ HowItWorks.jsx
+│  │  ├─ MerchantBanking.jsx
+│  │  ├─ NotFound.jsx
+│  │  └─ Technology.jsx
+│  ├─ App.jsx
+│  ├─ index.css
+│  └─ main.jsx
+├─ .gitignore
+├─ eslint.config.js
+├─ index.html
+├─ package-lock.json
+├─ package.json
+├─ README.md
+└─ vite.config.js
