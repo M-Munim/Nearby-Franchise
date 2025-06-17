@@ -10,27 +10,27 @@ const Technology = () => {
         {
             title: "White-Labeled Booking Portal",
             description: "Customers can book online 24/7 through a clean, fast, and secure interface that integrates with your dispatch system.",
-            icon: "https://cdn-icons-png.flaticon.com/512/943/943593.png",
+            icon: "/booking.png",
         },
         {
             title: "Call Centre Dashboard",
             description: "Franchisees get access to our shared call centre interface to view and manage live bookings instantly.",
-            icon: "https://cdn-icons-png.flaticon.com/512/2983/2983780.png",
+            icon: "/virtual-assistants.png",
         },
         {
             title: "Dispatch Software",
             description: "Track, assign, and optimize trips using advanced automation — integrated with Taxi Butler, Google Maps & more.",
-            icon: "https://cdn-icons-png.flaticon.com/512/7473/7473497.png",
+            icon: "/coding.png",
         },
         {
             title: "Merchant Gateway & Accounting",
             description: "Track payments, payouts, expenses and driver balances with full integration to your merchant account.",
-            icon: "https://cdn-icons-png.flaticon.com/512/3416/3416049.png",
+            icon: "/credit-card.png",
         },
         {
             title: "Hardware Integrations",
             description: "Includes support for SIP phones, POS terminals, printers, and tablets that are plug-and-play ready.",
-            icon: "https://cdn-icons-png.flaticon.com/512/2721/2721721.png",
+            icon: "/phone.png",
         },
     ];
 

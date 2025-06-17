@@ -15,7 +15,7 @@ const About = () => {
                             We equip you with the tools, training, and national branding you need to thrive.
                         </p>
                     </div>
-                    <div className="md:w-1/2">
+                    <div className="md:w-1/2  flex items-center justify-center">
                         <img src="/about.jpg" alt="Franchise Owner" className="rounded-xl shadow-xl w-1/2" />
                     </div>
                 </div>
@@ -69,7 +69,7 @@ const About = () => {
                             {
                                 name: "Faisal Pervez",
                                 role: "COO",
-                                image: "COO.jpg",
+                                image: "COO.jpeg",
                             },
                             {
                                 name: "Mohammed Imran",

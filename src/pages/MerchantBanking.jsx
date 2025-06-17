@@ -10,12 +10,12 @@ const MerchantBanking = () => {
         {
             title: "Card Payment Processing",
             description: "Accept secure card payments in your fleet, app, or dispatch system seamlessly.",
-            icon: "https://cdn-icons-png.flaticon.com/512/483/483947.png",
+            icon: "/credit-card.png",
         },
         {
             title: "POS Terminal Solutions",
             description: "Integrated point-of-sale terminals that work smoothly with your accounting tools.",
-            icon: "https://cdn-icons-png.flaticon.com/512/3135/3135706.png",
+            icon: "/pos-terminal.png",
         },
         {
             title: "Financial Dashboards",
@@ -25,7 +25,7 @@ const MerchantBanking = () => {
         {
             title: "Automated Payouts",
             description: "Auto-transfer funds and reconcile driver activity with fewer manual steps.",
-            icon: "https://cdn-icons-png.flaticon.com/512/2721/2721721.png",
+            icon: "/withdraw.png",
         },
         {
             title: "Transport-Focused Advisors",

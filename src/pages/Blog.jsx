@@ -7,84 +7,84 @@ const Blog = () => {
       summary: "Discover the 5 key steps to go from zero to operational with Nearby’s franchise kit.",
       date: "June 1, 2025",
       image: "https://source.unsplash.com/600x400/?startup,taxi",
-      link: "/blog/how-to-launch-a-local-taxi-brand-in-30-days"
+      link: "/Blog/how-to-launch-a-local-taxi-brand-in-30-days"
     },
     {
       title: "Why Independent Taxi Operators Are Thriving Again",
       summary: "Franchising + tech = a winning formula for local entrepreneurs.",
       date: "May 18, 2025",
       image: "https://source.unsplash.com/600x400/?entrepreneur,success",
-      link: "/blog/why-independent-taxi-operators-are-thriving"
+      link: "/Blog/why-independent-taxi-operators-are-thriving"
     },
     {
       title: "5 Tools You Need to Run Your Transport Business Remotely",
       summary: "From booking dashboards to merchant banking portals, explore must-haves.",
       date: "May 3, 2025",
       image: "https://source.unsplash.com/600x400/?technology,mobile",
-      link: "/blog/5-tools-to-run-transport-business-remotely"
+      link: "/Blog/5-tools-to-run-transport-business-remotely"
     },
     {
       title: "How to Start a Taxi Business in the UK",
       summary: "A step-by-step guide to launching your own private hire firm in the UK.",
       date: "April 2025",
       image: "https://source.unsplash.com/600x400/?uk,taxi",
-      link: "/blog/how-to-start-a-taxi-business-in-the-uk"
+      link: "/Blog/how-to-start-a-taxi-business-in-the-uk"
     },
     {
       title: "Why Franchising is Better Than Going Alone",
       summary: "Explore the benefits of partnering with a franchise vs. starting solo.",
       date: "March 2025",
       image: "https://source.unsplash.com/600x400/?franchise,business",
-      link: "/blog/why-franchising-is-better-than-going-alone"
+      link: "/Blog/why-franchising-is-better-than-going-alone"
     },
     {
       title: "5 Things You Need to Start a Private Hire Firm",
       summary: "Essential tools, licenses, and systems you must have before you launch.",
       date: "February 2025",
       image: "https://source.unsplash.com/600x400/?car,startup",
-      link: "/blog/5-things-you-need-to-start-a-private-hire-firm"
+      link: "/Blog/5-things-you-need-to-start-a-private-hire-firm"
     },
     {
       title: "Top Mistakes New Taxi Businesses Make",
       summary: "Avoid these common pitfalls when starting your taxi company.",
       date: "January 2025",
       image: "https://source.unsplash.com/600x400/?mistake,business",
-      link: "/blog/top-mistakes-new-taxi-businesses-make"
+      link: "/Blog/top-mistakes-new-taxi-businesses-make"
     },
     {
       title: "Best Dispatch Software for Small Taxi Firms",
       summary: "Compare top software platforms to run your operations smoothly.",
       date: "December 2024",
       image: "https://source.unsplash.com/600x400/?dispatch,software",
-      link: "/blog/best-dispatch-software-for-small-taxi-firms"
+      link: "/Blog/best-dispatch-software-for-small-taxi-firms"
     },
     {
       title: "Why Driver Apps Matter for Modern Taxi Companies",
       summary: "How mobile apps are transforming fleet management and customer service.",
       date: "November 2024",
       image: "https://source.unsplash.com/600x400/?driver,app",
-      link: "/blog/why-driver-apps-matter-for-modern-taxi-companies"
+      link: "/Blog/why-driver-apps-matter-for-modern-taxi-companies"
     },
     {
       title: "How a Call Centre Can Save You Thousands",
       summary: "Learn why customer service can make or break your taxi business.",
       date: "October 2024",
       image: "https://source.unsplash.com/600x400/?callcentre,taxi",
-      link: "/blog/how-a-call-centre-can-save-you-thousands"
+      link: "/Blog/how-a-call-centre-can-save-you-thousands"
     },
     {
       title: "Choosing the Right POS Machine for Your Office",
       summary: "Everything you need to know about POS systems for your taxi base.",
       date: "September 2024",
       image: "https://source.unsplash.com/600x400/?pos,machine",
-      link: "/blog/choosing-the-right-pos-machine-for-your-office"
+      link: "/Blog/choosing-the-right-pos-machine-for-your-office"
     },
     {
       title: "How to Get the Best Merchant Account Rates",
       summary: "Tips to save on transaction fees and banking costs.",
       date: "August 2024",
       image: "https://source.unsplash.com/600x400/?finance,merchant",
-      link: "/blog/how-to-get-the-best-merchant-account-rates"
+      link: "/Blog/how-to-get-the-best-merchant-account-rates"
     },
     {
       title: "Banking Tips for New Taxi Franchisees",
@@ -98,28 +98,28 @@ const Blog = () => {
       summary: "Explore the future of digital payments in transport.",
       date: "June 2024",
       image: "https://source.unsplash.com/600x400/?cashless,payment",
-      link: "/blog/why-cashless-payments-are-key-to-growing-your-taxi-business"
+      link: "/Blog/why-cashless-payments-are-key-to-growing-your-taxi-business"
     },
     {
       title: "Local Marketing Strategies for Taxi Operators",
       summary: "Low-cost, high-impact ways to grow your customer base.",
       date: "May 2024",
       image: "https://source.unsplash.com/600x400/?localmarketing,taxi",
-      link: "/blog/local-marketing-strategies-for-taxi-operators"
+      link: "/Blog/local-marketing-strategies-for-taxi-operators"
     },
     {
       title: "How to Run Social Media for Your Cab Company",
       summary: "Simple tactics to gain attention and build loyalty.",
       date: "April 2024",
       image: "https://source.unsplash.com/600x400/?socialmedia,cab",
-      link: "/blog/how-to-run-social-media-for-your-cab-company"
+      link: "/Blog/how-to-run-social-media-for-your-cab-company"
     },
     {
       title: "The Power of Branding in the Transport Industry",
       summary: "What makes a taxi brand stand out in a competitive market.",
       date: "March 2024",
       image: "https://source.unsplash.com/600x400/?branding,transport",
-      link: "/blog/the-power-of-branding-in-the-transport-industry"
+      link: "/Blog/the-power-of-branding-in-the-transport-industry"
     },
     {
       title: "How to Collect Customer Reviews and Grow Trust",

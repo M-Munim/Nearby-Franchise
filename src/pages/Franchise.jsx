@@ -16,40 +16,40 @@ const Franchise = () => {
             icon: "https://cdn-icons-png.flaticon.com/512/5973/5973800.png",
         },
         {
-            title: "Websites & Social Media Packages",
+            title: "Websites & Social Media",
             description:
                 "Your own professional website and managed social media platforms that build credibility and drive leads.",
-            icon: "https://cdn-icons-png.flaticon.com/512/1008/1008890.png",
+            icon: "https://cdn-icons-png.flaticon.com/512/684/684908.png",
         },
         {
             title: "Booking Portals & Driver App",
             description:
                 "Passenger booking web portals and Android/iOS driver apps, fully white-labeled and ready to use.",
-            icon: "https://cdn-icons-png.flaticon.com/512/1034/1034131.png",
+            icon: "https://cdn-icons-png.flaticon.com/512/2983/2983780.png",
         },
         {
             title: "Dispatch Software & Taxi Butler Access",
             description:
                 "Plug-and-play tools to track jobs, manage fleets, and print bookings from hotels, clubs, or offices.",
-            icon: "https://cdn-icons-png.flaticon.com/512/7473/7473497.png",
+            icon: "/coding.png",
         },
         {
             title: "POS Machines, SIP Phones, and Broadband",
             description:
                 "Get reliable internet, call solutions, and payment terminals at discounted franchisee rates.",
-            icon: "https://cdn-icons-png.flaticon.com/512/1041/1041888.png",
+            icon: "payment.png",
         },
         {
             title: "Merchant Account & Banking Setup",
             description:
                 "We help you set up merchant accounts and link with low-fee banking partners for fast onboarding.",
-            icon: "https://cdn-icons-png.flaticon.com/512/2721/2721721.png",
+            icon: "/seller.png",
         },
         {
             title: "Accounting & Business Support",
             description:
                 "Access tools and advisors to help you track earnings, file taxes, and scale operations wisely.",
-            icon: "https://cdn-icons-png.flaticon.com/512/1250/1250671.png",
+            icon: "/accounting.png",
         },
     ];
 
